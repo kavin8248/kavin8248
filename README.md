@@ -65,14 +65,44 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavin8248&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<h2 align="left">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="100%">
+<h3>📦 Lost & Found Management System</h3>
+
+<p>
+A web-based application designed to manage lost and found items efficiently.
+</p>
+
+<p>
+<b>Technologies:</b> Java | Spring Boot | PostgreSQL | React
+</p>
+
+<a href="https://github.com/kavin8248/LostAndFound">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+
+<h2 align="left">🤝 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kavin-p-a409202a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/kavin8248">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin8248&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <i>"Learning, building, and improving every day."</i>
 </p>
 
-
+<h3 align="center">Thanks for visiting my profile! 😊</h3>
