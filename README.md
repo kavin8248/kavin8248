@@ -22,5 +22,5 @@
 - Backend Development
 
 ### Connect With Me
-- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kavin-p-a409202a4/))
+- LinkedIn: https://www.linkedin.com/in/kavin-p-a409202a4/
 - GitHub: [My GitHub Profile](https://github.com/kavin8248)
