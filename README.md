@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kavin 🫡
 
-<!--
-**kavin8248/kavin8248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science and Engineering student (2027)
 
-Here are some ideas to get you started:
+💻 Interested in Software Development and Backend Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Languages:** Java, Python, JavaScript, SQL
+- **Backend:** Spring Boot, REST APIs, Spring Data JPA
+- **Database:** PostgreSQL
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, GitHub, Docker
+
+### Projects
+- **Lost & Found Management System** – Full-stack application built using Java, Spring Boot, React and PostgreSQL.
+- **College Fee Payment Gateway** – Developing a fee management and payment application using Java, Spring Boot and PostgreSQL.
+
+### Currently Learning
+- Data Structures and Algorithms
+- Core Java
+- Spring Boot
+- Backend Development
+
+### Connect With Me
+- LinkedIn: [My LinkedIn Profile]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kavin-p-a409202a4/))
+- GitHub: [My GitHub Profile](https://github.com/kavin8248)
