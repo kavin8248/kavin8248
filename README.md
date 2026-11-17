@@ -89,15 +89,20 @@ A web-based application designed to manage lost and found items efficiently.
 </tr>
 </table>
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavin8248&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=kavin8248&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+>
+
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin8248&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kavin8248&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kavin8248&theme=tokyonight&hide_border=true" />
