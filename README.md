@@ -101,7 +101,7 @@ A web-based application designed to manage lost and found items efficiently.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kavin8248&theme=tokyonight&hide_border=true" />
 </p>
-
+<p align="center"> <img height="170" src="https://github-stats-extended.vercel.app/api/?username=kavin8248&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kavin8248&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=kavin8248&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavin8248&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" /> </p>
 
 
 <h2 align="left">🤝 Connect With Me</h2>
