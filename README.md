@@ -81,13 +81,6 @@ A web-based application designed to manage lost and found items efficiently.
 <b>Technologies:</b> Java | Spring Boot | PostgreSQL | React
 </p>
 
-<a href="https://github.com/kavin8248/LostAndFound">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 
 <p align="center">
