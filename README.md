@@ -90,14 +90,6 @@ A web-based application designed to manage lost and found items efficiently.
 </table>
 
 
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kavin8248&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kavin8248&theme=tokyonight&hide_border=true" />
 </p>
